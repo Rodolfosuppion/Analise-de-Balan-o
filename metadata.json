@@ -1,0 +1,6 @@
+{
+  "name": "Analista Contábil Inteligente",
+  "description": "Leitura inteligente de demonstrações contábeis em PDF com geração de indicadores, gráficos elegantes e relatórios executivos para gestores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
